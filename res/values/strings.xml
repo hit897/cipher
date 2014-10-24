@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Encipher-er!</string>
+    <string name="Encipher">Encipher!</string>
+    <string name="Decipher">Decipher!</string>
+    <string name="EncipherHint">Message to Send</string>
+    <string name="DecipherHint">Message Recieved</string>
+    <string name="KeywordHint">Keyword</string>
+
+</resources>
